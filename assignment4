@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head.
+     <meta charset="UTF-8" />
+     <meta name="viewport" content="width=device-initial-scale"
+     <title>
+     <h1>
+     CODING BLOCKS JR. WEB DEVELOPMENT
+     </h1>
+     </title>
+     <p><i> <h3>below we have different sections in each sections links have been used</h3>
+     <h2> Section 1<i></h2>
+     <h2> This section consists of links which will direct us to different websites
+     <br>
+     <a href="https://www.youtube.com/">youtube </a>
+     <br>
+     <a href="https://online.codingblocks.com/"> coding blocks jr.</a>
+      <br>
+     <a href="https://github.com">github</a>
+      <br>
+     <a href="https://www.google.com">google</a>
+      <br>
+     <a href="https://parenting.firstcry.com/articles/10-educational-cartoons-your-child-should-be-watching/"> educational cartoons</a>
+     <br>
+    </head>
+    <body></body>
+</html>
+<br>
+
+<h2> Section 2<i></h2>
+<h2> This section consists of the links through which we can directly call a particular organization
+     <br>
+     <a href="tel:18001801104"> medical helpline number </a>
+     <br>
+     <a href="tel:18008899999"> jio customer care helpline number</a>
+     <br>
+     <a href="tel:18002744504"> coding blocks helpline number</a>
+     <br>
+     <a href="tel:911123978046"> covid-19 helpline number</a>
+     <br>
+
+<h2> Section 3<i></h2>
+<h2> This section consists of the links through which we can directly mail particular organization
+     <br>
+     <a href="admissions@codingblocks.com"> coding blocks helpline email </a>
+     <br>
+     <a href=" customer.care@sbigeneral.in ">sbi helpline email id </a>
+     <br>
+     <a href="admissions@vidyamandir.com"> vidyamandir helpline email id </a>
+     <br>
+     <a href="ncov2019@gov.in"> covid 19 helpline email id</a>
+     <br>
+     <body></body>
+</html>
